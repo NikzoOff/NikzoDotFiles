@@ -1,4 +1,4 @@
-@theme "/home/nikzo/.local/share/rofi/themes/rounded-template.rasi"
+@theme "/home/nikzo/.config/rofi/rounded-template.rasi"
 
 configuration {
   show-icons:         true;
