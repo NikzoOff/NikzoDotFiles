@@ -27,3 +27,11 @@ Downloads/
 Pictures/
 yay/
 .config/nvim
+.config/discord/node_modules/
+.config/discord/Cache/
+.config/discord/logs/
+.config/Deezer/Cache/
+.config/Deezer/logs/
+.config/Deezer/Local Storage/
+*.log
+*.cache
