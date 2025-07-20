@@ -1,0 +1,10 @@
+2025-07-18 17:04:20.884 [info] Getting Manifest... sceleratis.extra-dark-modern
+2025-07-18 17:04:21.516 [info] Installing extension: sceleratis.extra-dark-modern {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nikzo/.vscode-oss/extensions/extensions.json","path":"/home/nikzo/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.14746","date":"2025-07-16T18:35:36.263Z"}}
+2025-07-18 17:04:22.041 [info] Extracted extension to file:///home/nikzo/.vscode-oss/extensions/sceleratis.extra-dark-modern-1.0.0-universal: sceleratis.extra-dark-modern
+2025-07-18 17:04:22.048 [info] Renamed to /home/nikzo/.vscode-oss/extensions/sceleratis.extra-dark-modern-1.0.0-universal
+2025-07-18 17:04:22.069 [info] Extension installed successfully: sceleratis.extra-dark-modern vscode-userdata:/home/nikzo/.vscode-oss/extensions/extensions.json
+2025-07-18 17:05:01.816 [info] Getting Manifest... richardluo.frosted-glass-theme
+2025-07-18 17:05:02.074 [info] Installing extension: richardluo.frosted-glass-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/nikzo/.vscode-oss/extensions/extensions.json","path":"/home/nikzo/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.102.14746","date":"2025-07-16T18:35:36.263Z"}}
+2025-07-18 17:05:02.496 [info] Extracted extension to file:///home/nikzo/.vscode-oss/extensions/richardluo.frosted-glass-theme-0.8.23-universal: richardluo.frosted-glass-theme
+2025-07-18 17:05:02.504 [info] Renamed to /home/nikzo/.vscode-oss/extensions/richardluo.frosted-glass-theme-0.8.23-universal
+2025-07-18 17:05:02.527 [info] Extension installed successfully: richardluo.frosted-glass-theme vscode-userdata:/home/nikzo/.vscode-oss/extensions/extensions.json

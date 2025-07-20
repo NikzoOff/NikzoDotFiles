@@ -1,0 +1,27 @@
+2025-07-17 12:32:31.730 [info] Extension host with pid 40250 started
+2025-07-17 12:32:31.750 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-17 12:32:31.753 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: true, activationEvent: '*'
+2025-07-17 12:32:31.789 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2025-07-17 12:32:31.789 [error] Error: Command failed: pgrep 'code'
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at checkExecSyncError (node:child_process:897:11)
+	at Object.execSync (node:child_process:969:15)
+	at Object.execSync (node:electron/js2c/node_init:2:17313)
+	at activate (/home/nikzo/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at sy._callActivateOptional (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18667)
+	at sy._callActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18374)
+	at file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:16308
+	at async dw._activate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16273)
+	at async dw._waitForDepsThenActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16215)
+	at async dw._initialize (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:15578)
+2025-07-17 12:32:31.789 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-17 12:32:31.830 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-17 12:32:31.911 [info] Eager extensions activated
+2025-07-17 12:32:31.913 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 12:32:31.915 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 12:32:31.931 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 12:32:31.932 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 12:32:35.553 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-17 12:32:39.959 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-17 12:32:39.967 [info] Extension host with pid 40250 exiting with code 0

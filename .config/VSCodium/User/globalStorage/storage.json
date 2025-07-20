@@ -1,0 +1,96 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "fbad53d8dfdd99bc5c6102dfa01a9112bfc5e09470d77cd641871740320e3060",
+    "telemetry.devDeviceId": "1bcd6e79-d6a0-4883-a20d-a2c87a340d1f",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/nikzo/Documents/outfitsphere/assets"
+            },
+            {
+                "folderUri": "file:///home/nikzo/Documents/outfitsphere"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1752754366174"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/nikzo/.local/share/Steam/steamapps/common/Geometry%20Dash": "__default__profile__",
+            "file:///home/nikzo/Documents/outfitsphere/assets": "__default__profile__",
+            "file:///home/nikzo/Documents/outfitsphere": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1752754366174": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/nikzo/Documents/outfitsphere",
+            "backupPath": "/home/nikzo/.config/VSCodium/Backups/bc6438a5093c5f59f0ea494f5f1b6e02",
+            "uiState": {
+                "mode": 1,
+                "x": 1930,
+                "y": 53,
+                "width": 944,
+                "height": 1017
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#141414",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#141414",
+            "editorBackground": "#141414",
+            "titleBarBackground": "#0f0f0f",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#0f0f0f",
+            "activityBarBorder": "rgba(15, 15, 15, 0)",
+            "sideBarBackground": "#0f0f0f",
+            "sideBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarBackground": "#0f0f0f",
+            "statusBarBorder": "rgba(0, 0, 0, 0)",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "fa21595930a152177c6e7d079e3f6095": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9bc1567af8112bbdefd4516e445194f3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "c7211d5a1ee5b6af4e20005e1bb59ada": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

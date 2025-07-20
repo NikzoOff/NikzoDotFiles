@@ -1,0 +1,64 @@
+* {
+    border-color: #ffffff;
+    padding: 1px;
+    margin-top: 0px;
+    font-family: CaskaydiaMono Nerd Font;
+    font-size: 14px;
+    color: #ffffff;
+    background: transparent;
+    font-weight: bold;
+}
+
+window#waybar {
+    background-color: rgba(64, 63, 59, 0.3);
+    border: 2px solid rgba(221, 221, 221, 0.6);
+    border-radius: 0px;
+}
+
+#workspaces button {
+    background: transparent;
+    padding: 0 6px;
+    color: #aaa;
+    border: 0px solid rgba(221, 221, 221, 0.6)
+}
+
+window#workspaces{
+  border: 2px solid rgba(221, 221, 221, 0.6)
+}
+
+#workspaces button.active {
+  border-color: #82aaff;
+  background-color: rgba(148, 146, 146, 0.2);
+  color: #ffffff;
+}
+
+#workspaces button.empty {
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+#clock {
+    padding: 5;
+    color: #ffffff;
+    border: 0px solid rgba(221,221,221,0.6);
+}
+
+#battery {
+    padding: 5;
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+#cpu {
+    padding: 5;
+    font-weight: normal;
+    font-size: 22px;
+    margin-bottom: 5;
+}
+
+#memory {
+    padding: 0;
+    font-weight: normal;
+    font-size: 22px;
+    margin-bottom: 5;
+}

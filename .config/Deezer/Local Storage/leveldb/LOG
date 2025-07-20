@@ -1,0 +1,38 @@
+2025/07/20-17:30:36.813 3cf8 Reusing MANIFEST /home/nikzo/.config/Deezer/Local Storage/leveldb/MANIFEST-000001
+2025/07/20-17:30:36.816 3cf8 Recovering log #291
+2025/07/20-17:30:36.816 3cf8 Level-0 table #294: started
+2025/07/20-17:30:36.821 3cf8 Level-0 table #294: 12066 bytes OK
+2025/07/20-17:30:36.826 3cf8 Delete type=0 #291
+2025/07/20-17:32:56.122 3cf9 Level-0 table #297: started
+2025/07/20-17:32:56.170 3cf9 Level-0 table #297: 12537 bytes OK
+2025/07/20-17:32:56.176 3cf9 Delete type=0 #295
+2025/07/20-17:32:56.177 3cf9 Compacting 4@0 + 1@1 files
+2025/07/20-17:32:56.183 3cf9 Generated table #298@0: 15 keys, 8432 bytes
+2025/07/20-17:32:56.183 3cf9 Compacted 4@0 + 1@1 files => 8432 bytes
+2025/07/20-17:32:56.189 3cf9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-17:32:56.189 3cf9 Delete type=2 #292
+2025/07/20-17:32:56.190 3cf9 Delete type=2 #294
+2025/07/20-17:32:56.190 3cf9 Delete type=2 #297
+2025/07/20-17:32:56.190 3cf9 Delete type=2 #290
+2025/07/20-17:32:56.190 3cf9 Delete type=2 #288
+2025/07/20-17:38:11.636 3cf9 Level-0 table #300: started
+2025/07/20-17:38:11.683 3cf9 Level-0 table #300: 12064 bytes OK
+2025/07/20-17:38:11.690 3cf9 Delete type=0 #296
+2025/07/20-17:43:49.103 3cf9 Level-0 table #302: started
+2025/07/20-17:43:49.151 3cf9 Level-0 table #302: 12062 bytes OK
+2025/07/20-17:43:49.157 3cf9 Delete type=0 #299
+2025/07/20-20:46:23.733 3cf8 Level-0 table #304: started
+2025/07/20-20:46:23.744 3cf8 Level-0 table #304: 12063 bytes OK
+2025/07/20-20:46:23.750 3cf8 Delete type=0 #301
+2025/07/20-20:52:33.925 3cf9 Level-0 table #306: started
+2025/07/20-20:52:33.933 3cf9 Level-0 table #306: 12167 bytes OK
+2025/07/20-20:52:33.939 3cf9 Delete type=0 #303
+2025/07/20-20:52:33.939 3cf9 Compacting 4@0 + 1@1 files
+2025/07/20-20:52:33.944 3cf9 Generated table #307@0: 15 keys, 8436 bytes
+2025/07/20-20:52:33.944 3cf9 Compacted 4@0 + 1@1 files => 8436 bytes
+2025/07/20-20:52:33.949 3cf9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/20-20:52:33.950 3cf9 Delete type=2 #300
+2025/07/20-20:52:33.950 3cf9 Delete type=2 #302
+2025/07/20-20:52:33.950 3cf9 Delete type=2 #304
+2025/07/20-20:52:33.950 3cf9 Delete type=2 #298
+2025/07/20-20:52:33.950 3cf9 Delete type=2 #306

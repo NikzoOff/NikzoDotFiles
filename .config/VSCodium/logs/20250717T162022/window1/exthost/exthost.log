@@ -1,0 +1,9 @@
+2025-07-17 16:20:24.076 [info] Extension host with pid 1512702 started
+2025-07-17 16:20:24.077 [info] Skipping acquiring lock for /home/nikzo/.config/VSCodium/User/workspaceStorage/fa21595930a152177c6e7d079e3f6095.
+2025-07-17 16:20:24.134 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-17 16:20:24.162 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-17 16:20:24.231 [info] Eager extensions activated
+2025-07-17 16:20:24.307 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 16:20:24.311 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 16:20:26.595 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-17 16:20:26.599 [info] Extension host with pid 1512702 exiting with code 0

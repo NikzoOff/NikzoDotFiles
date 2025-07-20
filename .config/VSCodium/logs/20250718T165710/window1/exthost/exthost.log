@@ -1,0 +1,212 @@
+2025-07-18 16:57:11.242 [info] Extension host with pid 3465 started
+2025-07-18 16:57:11.308 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-18 16:57:11.340 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-18 16:57:11.356 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-18 16:57:11.777 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-18 16:57:11.788 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-07-18 16:57:11.821 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-18 16:57:11.868 [info] Eager extensions activated
+2025-07-18 16:57:11.870 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:57:11.873 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:57:53.342 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 16:57:53.350 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 16:57:53.394 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 16:59:13.198 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-18 16:59:13.206 [info] Extension host with pid 3465 exiting with code 0
+2025-07-18 16:59:14.090 [info] Extension host with pid 3872 started
+2025-07-18 16:59:14.090 [info] Skipping acquiring lock for /home/nikzo/.config/VSCodium/User/workspaceStorage/9bc1567af8112bbdefd4516e445194f3.
+2025-07-18 16:59:14.101 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-18 16:59:14.113 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-18 16:59:14.158 [info] Eager extensions activated
+2025-07-18 16:59:14.160 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:14.163 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:17.026 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-07-18 16:59:17.072 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:17.074 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:17.079 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: false, activationEvent: '*'
+2025-07-18 16:59:17.119 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2025-07-18 16:59:17.119 [error] Error: Command failed: pgrep 'code'
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at checkExecSyncError (node:child_process:897:11)
+	at Object.execSync (node:child_process:969:15)
+	at Object.execSync (node:electron/js2c/node_init:2:17313)
+	at activate (/home/nikzo/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at sy._callActivateOptional (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18667)
+	at sy._callActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18374)
+	at file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:16308
+	at async dw._activate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16273)
+	at async dw._waitForDepsThenActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16215)
+	at async dw._initialize (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:15578)
+2025-07-18 16:59:34.317 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-18 16:59:34.328 [info] Extension host with pid 3872 exiting with code 0
+2025-07-18 16:59:35.121 [info] Extension host with pid 3918 started
+2025-07-18 16:59:35.121 [info] Skipping acquiring lock for /home/nikzo/.config/VSCodium/User/workspaceStorage/c7211d5a1ee5b6af4e20005e1bb59ada.
+2025-07-18 16:59:35.131 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-18 16:59:35.135 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-18 16:59:35.179 [info] Eager extensions activated
+2025-07-18 16:59:35.181 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:35.182 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:38.261 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-07-18 16:59:38.324 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:38.326 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 16:59:38.331 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: false, activationEvent: '*'
+2025-07-18 16:59:38.385 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2025-07-18 16:59:38.385 [error] Error: Command failed: pgrep 'code'
+	at genericNodeError (node:internal/errors:983:15)
+	at wrappedFn (node:internal/errors:537:14)
+	at checkExecSyncError (node:child_process:897:11)
+	at Object.execSync (node:child_process:969:15)
+	at Object.execSync (node:electron/js2c/node_init:2:17313)
+	at activate (/home/nikzo/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at sy._callActivateOptional (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18667)
+	at sy._callActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:18374)
+	at file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:117:16308
+	at async dw._activate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16273)
+	at async dw._waitForDepsThenActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:16215)
+	at async dw._initialize (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:112:15578)
+2025-07-18 16:59:52.135 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-07-18 16:59:52.183 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-18 16:59:59.045 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-18 17:00:26.495 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:00:26.495 [error] undefined
+2025-07-18 17:05:02.595 [info] ExtensionService#_doActivateExtension RichardLuo.frosted-glass-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-07-18 17:05:16.085 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 17:05:16.098 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 17:05:16.141 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-18 17:05:34.151 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:34.151 [error] undefined
+2025-07-18 17:05:34.196 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:34.196 [error] undefined
+2025-07-18 17:05:34.310 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:34.310 [error] undefined
+2025-07-18 17:05:34.407 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:34.407 [error] undefined
+2025-07-18 17:05:34.546 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:34.546 [error] undefined
+2025-07-18 17:05:40.488 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:40.488 [error] undefined
+2025-07-18 17:05:48.086 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:48.087 [error] undefined
+2025-07-18 17:05:48.503 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:48.503 [error] undefined
+2025-07-18 17:05:48.623 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:05:48.623 [error] undefined
+2025-07-18 17:06:48.553 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:48.553 [error] undefined
+2025-07-18 17:06:48.594 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:48.594 [error] undefined
+2025-07-18 17:06:53.645 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:53.645 [error] undefined
+2025-07-18 17:06:53.713 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:53.713 [error] undefined
+2025-07-18 17:06:54.121 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.121 [error] undefined
+2025-07-18 17:06:54.244 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.244 [error] undefined
+2025-07-18 17:06:54.290 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.290 [error] undefined
+2025-07-18 17:06:54.340 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.340 [error] undefined
+2025-07-18 17:06:54.500 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.500 [error] undefined
+2025-07-18 17:06:54.610 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.610 [error] undefined
+2025-07-18 17:06:54.843 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.843 [error] undefined
+2025-07-18 17:06:54.939 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:54.939 [error] undefined
+2025-07-18 17:06:55.035 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:55.035 [error] undefined
+2025-07-18 17:06:55.410 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:55.410 [error] undefined
+2025-07-18 17:06:55.744 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:55.744 [error] undefined
+2025-07-18 17:06:55.848 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:55.848 [error] undefined
+2025-07-18 17:06:56.075 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:56.075 [error] undefined
+2025-07-18 17:06:56.239 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:56.239 [error] undefined
+2025-07-18 17:06:56.558 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:56.558 [error] undefined
+2025-07-18 17:06:56.772 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:56.772 [error] undefined
+2025-07-18 17:06:56.960 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:56.960 [error] undefined
+2025-07-18 17:06:57.048 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:57.048 [error] undefined
+2025-07-18 17:06:57.166 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:57.166 [error] undefined
+2025-07-18 17:06:57.640 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:57.640 [error] undefined
+2025-07-18 17:06:57.943 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:57.943 [error] undefined
+2025-07-18 17:06:58.193 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:58.193 [error] undefined
+2025-07-18 17:06:58.342 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:58.342 [error] undefined
+2025-07-18 17:06:58.459 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:58.459 [error] undefined
+2025-07-18 17:06:58.572 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:58.572 [error] undefined
+2025-07-18 17:06:58.762 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:06:58.763 [error] undefined
+2025-07-18 17:36:45.984 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:45.984 [error] undefined
+2025-07-18 17:36:47.157 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:47.157 [error] undefined
+2025-07-18 17:36:47.917 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:47.917 [error] undefined
+2025-07-18 17:36:49.612 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:49.612 [error] undefined
+2025-07-18 17:36:50.545 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:50.545 [error] undefined
+2025-07-18 17:36:55.251 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:55.251 [error] undefined
+2025-07-18 17:36:55.497 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:55.497 [error] undefined
+2025-07-18 17:36:55.673 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:55.673 [error] undefined
+2025-07-18 17:36:57.504 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:36:57.504 [error] undefined
+2025-07-18 17:37:01.357 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:01.357 [error] undefined
+2025-07-18 17:37:01.614 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:01.614 [error] undefined
+2025-07-18 17:37:02.641 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:02.641 [error] undefined
+2025-07-18 17:37:03.651 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:03.651 [error] undefined
+2025-07-18 17:37:03.819 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:03.819 [error] undefined
+2025-07-18 17:37:03.874 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:37:03.874 [error] undefined
+2025-07-18 17:49:12.925 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:12.925 [error] undefined
+2025-07-18 17:49:22.882 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:22.882 [error] undefined
+2025-07-18 17:49:24.849 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:24.849 [error] undefined
+2025-07-18 17:49:24.970 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:24.970 [error] undefined
+2025-07-18 17:49:38.075 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:38.075 [error] undefined
+2025-07-18 17:49:40.965 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:40.965 [error] undefined
+2025-07-18 17:49:41.052 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:41.052 [error] undefined
+2025-07-18 17:49:52.117 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:52.117 [error] undefined
+2025-07-18 17:49:52.479 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:52.479 [error] undefined
+2025-07-18 17:49:52.602 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:52.602 [error] undefined
+2025-07-18 17:49:53.855 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:53.855 [error] undefined
+2025-07-18 17:49:55.099 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 17:49:55.099 [error] undefined
+2025-07-18 18:07:05.423 [error] [ecmel.vscode-html-css] provider FAILED
+2025-07-18 18:07:05.424 [error] undefined
+2025-07-18 18:07:15.552 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-18 18:07:15.579 [info] Extension host with pid 3918 exiting with code 0

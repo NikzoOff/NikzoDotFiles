@@ -1,0 +1,9 @@
+2025/07/20-17:15:44.685 30d8 Reusing MANIFEST /home/nikzo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/20-17:15:44.685 30d8 Recovering log #12
+2025/07/20-17:15:44.685 30d8 Reusing old log /home/nikzo/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000012.log 
+2025/07/20-17:16:44.988 30d8 Compacting 1@1 + 1@2 files
+2025/07/20-17:16:45.005 30d8 Generated table #15@1: 709 keys, 143203 bytes
+2025/07/20-17:16:45.005 30d8 Compacted 1@1 + 1@2 files => 143203 bytes
+2025/07/20-17:16:45.012 30d8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/20-17:16:45.012 30d8 Delete type=2 #13
+2025/07/20-17:16:45.012 30d8 Delete type=2 #10

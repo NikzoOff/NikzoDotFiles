@@ -1,0 +1,5 @@
+@theme "/home/nikzo/.local/share/rofi/themes/rounded-template.rasi"
+
+configuration {
+  show-icons:         true;
+}

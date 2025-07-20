@@ -1,0 +1,31 @@
+window {
+  border-radius: 10px;
+  padding: 10px;
+  opacity: 0.95;
+}
+
+listview {
+  fixed-height: 0;
+  fixed-width: 0;
+  columns: 3;
+  lines: 2;
+  spacing: 15px 25px;
+}
+
+element {
+  border-radius: 5px;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+element::selected {
+  background: #82aaff;
+  color: #1e1e2e;
+}
+
+element-icon {
+  size: 24px;
+  margin: 0 0 5px 0;
+  text-align: center;
+}
+

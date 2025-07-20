@@ -1,0 +1,181 @@
+/* Base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fafafa;
+  color: #222;
+  line-height: 1.6;
+}
+
+/* Header / Logo */
+.main-header {
+  background-color: #000;
+  padding: 0 1em;
+  text-align: center;
+  height: 135px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden; /* cache le débordement */
+}
+
+.logo {
+  height: 200px;
+  object-fit: contain;
+}
+
+/* Section : Outfit de la semaine */
+.highlight {
+  padding: 2em;
+  background-color: #fff;
+  text-align: center;
+}
+
+.highlight h2 {
+  font-size: 1.8em;
+  margin-bottom: 1em;
+}
+
+.outfit-week img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  margin-bottom: 1em;
+}
+
+/* Section : Les Inspirations*/
+#les-inspirations {
+  padding: 2em 1em;
+  background-color: #fafafa;
+  margin-top: 2em;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+#les-inspirations h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  margin-bottom: 1em;
+}
+
+.inspiration-preview {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.outfit-card {
+  width: 150px;
+  background: #f9f9f9;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.outfit-card:hover {
+  transform: scale(1.05);
+}
+
+.outfit-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.outfit-card p {
+  margin: 0.5em;
+  font-size: 0.9rem;
+}
+
+.explore-btn {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.explore-link {
+  background: black;
+  color: white;
+  padding: 0.6em 1.2em;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.explore-link:hover {
+  background: #333;
+}
+
+/* Section : Sélection admin */
+.featured-items {
+  padding: 2em;
+  background-color: #f2f2f2;
+}
+
+.featured-items h2 {
+  text-align: center;
+  margin-bottom: 1.5em;
+  font-size: 1.6em;
+}
+
+.items-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5em;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.item {
+  background-color: white;
+  padding: 1em;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  transition: transform 0.2s ease;
+}
+
+.item:hover {
+  transform: scale(1.03);
+}
+
+.item img {
+  width: 100%;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.5em;
+}
+
+/* Footer */
+.main-footer {
+  background-color: #000;
+  color: #fff;
+  padding: 2em 1em;
+  text-align: center;
+}
+
+.footer-links {
+  margin-bottom: 1em;
+}
+
+.footer-links a {
+  color: #fff;
+  margin: 0 1em;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+.footer-links a:hover {
+  color: #aaa;
+}

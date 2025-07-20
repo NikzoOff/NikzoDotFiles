@@ -1,0 +1,12 @@
+2025-07-17 21:16:13.015 [info] Extension host with pid 1530924 started
+2025-07-17 21:16:13.152 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-17 21:16:13.176 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-17 21:16:13.192 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-17 21:16:13.465 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-17 21:16:13.508 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-17 21:16:13.509 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-07-17 21:16:13.627 [info] Eager extensions activated
+2025-07-17 21:16:13.649 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 21:16:13.652 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-17 21:16:16.865 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-17 21:16:16.871 [info] Extension host with pid 1530924 exiting with code 0
